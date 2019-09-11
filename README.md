@@ -251,7 +251,7 @@ This will run the script to create your packaged program. It will create a new d
 
 #### Version: v0.1
 
-You can download the executable for window from here: <a href="#">Panther_Youtube_Downloader_v01.exe</a>
+You can download the executable for window from here: <a href="https://github.com/rajenderk18/Panther_Youtube_Downloader/releases/download/0.1/Panther_Youtube_Downloader.exe">Panther_Youtube_Downloader_v01.exe</a>
 
 ## To-do
 
